@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laukik Verma</h1>
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laukik Verma</h1>
 
 
 - 🔭 I'm a Sophomore Computer Science and Engineering Undergrad from the Indian Institute of Information Technology, Sri City.
