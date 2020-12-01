@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laukik Verma</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 🔭 I'm a Sophomore Computer Science and Engineering Undergrad from the Indian Institute of Information Technology, Sri City.
 - 🌱 I’m currently into Web development.
@@ -14,5 +16,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laukik-11&show_icons=true&theme=vue-dark&count_private=true">
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/Repo Card/?username=Laukik-11&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Laukik-11&theme=vue-dark" />
 
