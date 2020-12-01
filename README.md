@@ -14,5 +14,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laukik-11&show_icons=true&theme=vue-dark&count_private=true">
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laukik-11&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/Repo Card/?username=Laukik-11&theme=vue-dark" />
 
