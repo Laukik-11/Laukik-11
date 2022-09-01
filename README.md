@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laukik Verma</h1>
 
 
-- 🔭 I'm a Sophomore Computer Science and Engineering Undergrad from the Indian Institute of Information Technology, Sri City.
+- 🔭 I'm a Final year Computer Science and Engineering Undergrad from the Indian Institute of Information Technology, Sri City.
 - 🌱 I’m currently into Web development.
 - 🤔 I’m looking for help with my college curriculum understanding.
 
